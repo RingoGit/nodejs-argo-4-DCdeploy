@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const testtststs = 'aaadaadddd';
+const testtststs = 'aaadaaddd';
 const http = require("http");
 const axios = require("axios");
 const os = require('os');
